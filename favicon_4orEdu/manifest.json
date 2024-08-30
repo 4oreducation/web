@@ -10,7 +10,7 @@
  "display": "standalone",
  "orientation": "portrait-primary",
  "version": "1.0.0",
- "author": "Nama Author",
+ "author": "4or Education",
  "icons": [{
     "src": "https://rawcdn.githack.com/4oreducation/web/4ef1264be26c4b45e66ab5fae30732a63d8d7a8d/favicon_4orEdu/android-chrome-36x36.png",
     "sizes": "36x36",
@@ -45,6 +45,6 @@
     "src": "https://rawcdn.githack.com/4oreducation/web/d938438f00a00531454f8330d4c5037f435dcc4e/favicon_4orEdu/android-chrome-512x512.png",
     "sizes": "512x512",
     "type": "image/png",
-    "density": "5.0"
+    "density": "0"
   }]
 }
