@@ -16,43 +16,36 @@
     "src": "https://rawcdn.githack.com/4oreducation/web/4ef1264be26c4b45e66ab5fae30732a63d8d7a8d/favicon_4orEdu/android-chrome-36x36.png",
     "sizes": "36x36",
     "type": "image/png",
-    "density": "0.75"
   },
   {
     "src": "https://rawcdn.githack.com/4oreducation/web/4ef1264be26c4b45e66ab5fae30732a63d8d7a8d/favicon_4orEdu/android-chrome-48x48.png",
     "sizes": "48x48",
-    "type": "image/png",
-    "density": "1.0"
+    "type": "image/png"
   },
   {
     "src": "https://rawcdn.githack.com/4oreducation/web/dea54f5e991ebfd827bc1fd8aad8616ec27b6f96/favicon_4orEdu/android-chrome-72x72.png",
     "sizes": "72x72",
-    "type": "image/png",
-    "density": "1.5"
+    "type": "image/png"
   },
   {
     "src": "https://rawcdn.githack.com/4oreducation/web/dea54f5e991ebfd827bc1fd8aad8616ec27b6f96/favicon_4orEdu/android-chrome-96x96.png",
     "sizes": "96x96",
-    "type": "image/png",
-    "density": "2.0"
+    "type": "image/png"
   },
   {
     "src": "https://rawcdn.githack.com/4oreducation/web/d938438f00a00531454f8330d4c5037f435dcc4e/favicon_4orEdu/mstile-150x150.png",
     "sizes": "144x144",
-    "type": "image/png",
-    "density": "3.0"
+    "type": "image/png"
   },
   {
     "src": "https://rawcdn.githack.com/4oreducation/web/d938438f00a00531454f8330d4c5037f435dcc4e/favicon_4orEdu/android-chrome-192x192.png",
     "sizes": "192x192",
-    "type": "image/png",
-    "density": "4.0"
+    "type": "image/png"
   },
   {
     "src": "https://rawcdn.githack.com/4oreducation/web/d938438f00a00531454f8330d4c5037f435dcc4e/favicon_4orEdu/android-chrome-512x512.png",
     "sizes": "512x512",
     "type": "image/png",
-    "density": "5.0"
   }
  ]
 }
